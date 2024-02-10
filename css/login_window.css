@@ -1,0 +1,23 @@
+.container_entry {
+    width: 500px;
+    height: 300px;
+    left: 100px;
+    border: 1px solid gray;
+    margin-left: 200px;
+
+}
+
+.container_form_login {
+    height: 40px;
+    background: rgb(0, 110, 255);
+}
+
+.container_form {
+    padding-top: 100px;
+    margin-left: 450px;
+
+}
+
+.input1 {
+    /* padding-top: 100px; */
+}
