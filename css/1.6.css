@@ -1,0 +1,22 @@
+.style_text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+.container_CaR{ 
+    display: inline-block;
+    vertical-align: top;
+}
+.h1_Car{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: rgb(0, 180, 180);
+}
+
+.p_CaR{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: rgba(134, 134, 134, 0.89);
+    padding-right: 170px;
+    max-width: 300px;
+    font-size: 20px;
+}
