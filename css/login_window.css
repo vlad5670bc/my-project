@@ -3,7 +3,7 @@
     height: 300px;
     left: 100px;
     border: 1px solid gray;
-    margin-left: 200px;
+    
 
 }
 
@@ -13,9 +13,9 @@
 }
 
 .container_form {
-    padding-top: 100px;
-    margin-left: 450px;
-
+padding-top: 120px;
+display: flex;
+justify-content: center;
 }
 
 .input1 {
